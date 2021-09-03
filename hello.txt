@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello India!! Its an exiciting day.
 Hey i am good.
+=======
+Hello India!! Its an exiciting day. Good.
+this that
+>>>>>>> 72493c2578529c8c3cb8114c9a1a07e326c39fee
